@@ -6,7 +6,7 @@ const Home: NextPage = () => {
 
   return (
     <div className="flex flex-row">
-      <Image src="/../public/ilimitados.jpg" alt="logo" width={150} height={150} />
+      <Image src="/../public/ilimitados.jpg" alt="logo" width={100} height={100} />
     </div>
   )
 }
